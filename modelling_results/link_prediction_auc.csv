@@ -1,0 +1,8 @@
+,random negatives (all held-out edges),friend-of-friend negatives (triangle-closing edges only)
+cn,0.878983865,0.8708490241258717
+jaccard,0.8772317300000001,0.5497767214992262
+adamic_adar,0.8795378,0.8117266291269284
+pref_attach,0.899941,0.8808964970106825
+co_reviewed,0.53133918,0.5250393690051742
+GradientBoosting (sklearn): graph features,0.9488731499999999,0.9172997464022523
+GradientBoosting (sklearn): graph + non-graph,0.95232652,0.9178587436685777

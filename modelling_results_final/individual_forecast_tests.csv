@@ -1,0 +1,4 @@
+comparison,MSE change,CI low,CI high,reviews
++ friend's rating vs + user generosity,-0.02817508060468651,-0.03977016172620957,-0.016412423009778153,6992
++ non-friend's rating (placebo) vs + user generosity,-0.0001087410605727199,-0.001444387089844718,0.0012976690983768427,6992
++ friend's rating vs + non-friend's rating (placebo),-0.028066339544113788,-0.0394715104601808,-0.01663421539803144,6992

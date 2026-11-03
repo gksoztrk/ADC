@@ -1,0 +1,15 @@
+topic,top words,closest aspect,matching words
+0,"order, chicken, salad, sandwich, eat, burger, fry, fresh, sauce",food,4
+1,"work, tell, need, ask, customer, day, car, experience, bad",(business type),0
+2,"love, amazing, favorite, absolutely, atmosphere, year, awesome, kid, super",(business type),1
+3,"food, service, excellent, restaurant, delicious, atmosphere, customer, mexican, amazing",food,2
+4,"room, stay, hotel, clean, beach, nice, location, bed, night",(business type),1
+5,"santa, barbara, visit, favorite, stop, restaurant, area, trip, live",(business type),0
+6,"wine, tasting, taste, tour, winery, glass, bottle, fun, enjoy",food,2
+7,"recommend, highly, amazing, definitely, wedding, professional, work, job, experience",(business type),1
+8,"taco, salsa, mexican, fish, chip, burrito, tortilla, asada, bean",food,2
+9,"price, reasonable, quality, sushi, high, decent, worth, reasonably, portion",price,2
+10,"pizza, crust, topping, cheese, salad, sauce, slice, beer, pepperoni",food,3
+11,"friendly, staff, helpful, super, nice, clean, dog, attentive, definitely",service,4
+12,"drink, bar, beer, sit, table, wait, hour, happy, bartender",food,2
+13,"coffee, breakfast, cream, ice, egg, shop, flavor, latte, chocolate",food,3
